@@ -6,6 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ### Project Task Progression
 
 I've mapped out the entire project's progress and ELT milestones on Notion. This is the source of truth for task completion and detailed workflow status.
+
 [Click here!!](https://mature-koala-0b2.notion.site/SQL-Data-Warehouse-Project-2842286e1ddd8020945ccc0bc673bb21)
 ---
 ## 🏗️ Data Architecture
