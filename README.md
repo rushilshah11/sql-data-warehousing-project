@@ -85,3 +85,7 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 🧑‍💻 Author
+**Rushil Shah**  
+📫 [LinkedIn][https://linkedin.com/in/rushilshahh]
+💼 Portfolio
