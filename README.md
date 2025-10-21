@@ -87,5 +87,5 @@ data-warehouse-project/
 ---
 ## 🧑‍💻 Author
 **Rushil Shah**  
-📫 [LinkedIn][https://linkedin.com/in/rushilshahh]
+📫 [LinkedIn](https://linkedin.com/in/rushilshahh)
 💼 Portfolio
