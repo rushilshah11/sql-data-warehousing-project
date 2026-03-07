@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **Data Warehouse and Analytics Project** repository! 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ### Project Task Progression
@@ -9,7 +9,7 @@ I've mapped out the entire project's progress and ELT milestones on Notion. This
 
 [Click here!!](https://mature-koala-0b2.notion.site/SQL-Data-Warehouse-Project-2842286e1ddd8020945ccc0bc673bb21)
 ---
-## 🏗️ Data Architecture
+## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
@@ -30,7 +30,7 @@ This project involves:
    
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -85,7 +85,7 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-## 🧑‍💻 Author
+## Author
 **Rushil Shah**  
-📫 [LinkedIn](https://linkedin.com/in/rushilshahh)
-💼 Portfolio
+[LinkedIn](https://linkedin.com/in/rushilshahh)
+[Portfolio](https://rushilshah11.github.io/portfolio/)
